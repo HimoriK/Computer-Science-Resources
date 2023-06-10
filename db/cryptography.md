@@ -1,13 +1,6 @@
 # Cryptography
 
 <details>
-  <summary>Croatian</summary>
-  
-  ### Materials
-- [Kritografija](https://web.math.pmf.unizg.hr/~duje/kript/kriptografija.html)
-</details>
-
-<details>
   <summary>English</summary>
   
   ### Materials
