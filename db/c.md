@@ -10,7 +10,7 @@
 - [Fresh2fresh](https://fresh2refresh.com/c-programming/)
 - [Studytonight](https://www.studytonight.com/c/)
 - [Wikibooks](https://en.wikibooks.org/wiki/C_Programming)
-- [W3resource](https://www.w3resource.com/c-programming-exercises/)
+- [W3resource](https://www.w3resource.com/c-programming-exercises/) programming excercises 
 - [Overiq](https://overiq.com/c-programming/101/intro-to-c-programming/)
 - [Reddit](https://www.reddit.com/r/C_Programming/)
 - [Di-mgt](https://www.di-mgt.com.au/cprog.html)
