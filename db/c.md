@@ -4,21 +4,12 @@
   <summary>English</summary>
   
   ### Materials
-- [Programiz](https://www.programiz.com/c-programming)
 - [Geeks for Geeks](https://www.geeksforgeeks.org/c-language-set-1-introduction/)
 - [Learn C](https://www.learn-c.org/)
-- [Wikipedia](https://en.wikipedia.org/wiki/C_(programming_language))
 - [Beej's Guide to C Programming](http://beej.us/guide/bgc/html/)
-- [Tutorialspoint](https://www.tutorialspoint.com/cprogramming/)
-- [C Programming](https://www.cprogramming.com/)
 - [Fresh2fresh](https://fresh2refresh.com/c-programming/)
 - [Studytonight](https://www.studytonight.com/c/)
 - [Wikibooks](https://en.wikibooks.org/wiki/C_Programming)
-- [Programming Simplified](https://www.programmingsimplified.com/c-program-examples)
-- [CS Utah](https://www.cs.utah.edu/~germain/PPS/Topics/C_Language/the_C_language.html)
-- [How Stuff Works](https://computer.howstuffworks.com/c1.htm)
-- [Javatpoint](https://www.javatpoint.com/c-programming-language-tutorial)
-- [Ntu.edu](http://www.ntu.edu.sg/home/ehchua/programming/cpp/c0_Introduction.html)
 - [W3resource](https://www.w3resource.com/c-programming-exercises/)
 - [Overiq](https://overiq.com/c-programming/101/intro-to-c-programming/)
 - [Reddit](https://www.reddit.com/r/C_Programming/)
@@ -73,4 +64,3 @@
 - [C Traps and Pitfalls](http://www.literateprogramming.com/ctraps.pdf)
 - [Build Your Own Lisp](http://www.buildyourownlisp.com/contents)
 </details>
-- [OpenClassRoom](https://openclassrooms.com/fr/courses/19980-apprenez-a-programmer-en-c)
