@@ -68,14 +68,3 @@
 - [Modern C++ Course](https://www.youtube.com/watch?v=F_vIB3yjxaM&amp;list=PLgnQpQtFTOGR50iIOtO36nK6aNPtVq98C)
 - [C++ Programming All-in-One Tutorial Series](https://www.youtube.com/watch?v=_bYFu9mBnr4)
 </details>
-
-<details>
-  <summary>French</summary>
-  
-  ### Materials
-- [OpenClassRoom](https://openclassrooms.com/fr/courses/1894236-programmez-avec-le-langage-c)
-- [Cours C++](http://www.lsv.fr/~fl/Cours/slides.pdf)
-- [Programmation C++](https://www.irif.fr/~yunes/cours/cpp/index.html)
-- [Programmation C++ Mathématiques](https://www.univ-orleans.fr/mapmo/membres/haberkorn/docs/polyC++.pdf)
-- [C++ Moderne](https://zestedesavoir.com/tutoriels/822/la-programmation-en-c-moderne/)
-</details>
