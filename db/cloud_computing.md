@@ -5,18 +5,12 @@
   
   ### Materials
 - [Microsoft](https://azure.microsoft.com/en-us/overview/what-is-cloud-computing/)
-- [Wikipedia](https://en.wikipedia.org/wiki/Cloud_computing)
-- [Amazon](https://aws.amazon.com/what-is-cloud-computing/)
-- [IBM](https://www.ibm.com/cloud/learn/what-is-cloud-computing)
-- [Redhat](https://www.redhat.com/en/topics/cloud)
-- [Intellipaat](https://intellipaat.com/blog/cloud-computing-tutorial/)
 - [Guru 99](https://www.guru99.com/cloud-computing-for-beginners.html)
 - [Tutorialspoint](https://www.tutorialspoint.com/cloud_computing/)
 - [Javatpoint](https://www.javatpoint.com/cloud-computing-tutorial)
 - [Simplilearn](https://www.simplilearn.com/cloud-computing-tutorial-video)
 - [The Cloud Tutorial](http://thecloudtutorial.com/)
 - [W3schools.in](https://www.w3schools.in/cloud-computing/cloud-computing/)
-- [Amazon AWS Tutorial](https://www.edureka.co/blog/amazon-aws-tutorial/)
 - [Tutorialride](https://www.tutorialride.com/cloud-computing/cloud-computing-tutorial.htm)
 - [Cloud Computing for Beginners](https://www.eduonix.com/courses/Software-Development/Learn-Cloud-Computing-from-Scratch-for-Beginners)
 - [The Basics of Cloud Computing](https://www.us-cert.gov/sites/default/files/publications/CloudComputingHuthCebula.pdf)
